@@ -1,0 +1,10 @@
+autopep8
+black
+yapf
+bandit
+flake8
+mypy
+pycodestyle
+pydocstyle
+pylint
+flask

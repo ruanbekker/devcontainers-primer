@@ -12,4 +12,4 @@ The Visual Studio Code Remote - Containers extension lets you use a Docker conta
 - [manekinekko/awesome-devcontainers](https://github.com/manekinekko/awesome-devcontainers)
 - [yobooooi](https://github.com/yobooooi/aws-cdk-boilerplate/tree/master/.devcontainer)
 - [marcel-dempers](https://github.com/marcel-dempers/docker-development-youtube-series/tree/master/.devcontainer)
-
+- [renovatebot](https://github.com/renovatebot/renovate/tree/main/.devcontainer)
